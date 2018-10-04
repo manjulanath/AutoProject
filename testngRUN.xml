@@ -1,0 +1,6 @@
+<suite name="suite of suites">
+    <suite-files>
+        <suite-file path="testngE4_us1_01.xml" />
+        <suite-file path="testngE4_us1_02.xml" />
+    </suite-files>
+</suite>

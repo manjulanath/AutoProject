@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<entry key="Browser">Chrome</entry>
+	<entry key="TestDataExcelFileName">iAudit_Data_File.xlsx</entry>
+	<entry key="URL">http://54.190.208.195:9081/prweb/CTSHC</entry>
+	<entry key="MTMAuditorLoginID">MTMAuditor</entry>
+	<entry key="MTMReviewerLoginID">MTMReviewer</entry>
+	<entry key="MTMErrorApproverLoginID">MTMErrorApprover</entry>
+	<entry key="MTMAuditorLoginPassword">2018oct@rules</entry>
+	<entry key="MTMReviewerLoginPassword">2018oct@rules</entry>
+	<entry key="MTMErrorApproverLoginPassword">2018oct@rules</entry>
+</properties>

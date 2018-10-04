@@ -1,0 +1,7 @@
+<suite name="TestCases">
+ <test name="E4_US1_01_CreateDiscrepancy_Cancel">
+ <classes>
+ <class name="TestCases.E4_US1_01_CreateDiscrepancy_Cancel" />
+ </classes>
+ </test>
+</suite>

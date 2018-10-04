@@ -1,0 +1,7 @@
+<suite name="TestCases">
+ <test name="E4_US1_02_CreateDiscrepancy_SaveSubmit_Claims">
+ <classes>
+ <class name="TestCases.E4_US1_02_CreateDiscrepancy_SaveSubmit_Claims" />
+ </classes>
+ </test>
+</suite>
